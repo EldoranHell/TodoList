@@ -1,0 +1,7 @@
+id,titre,description,date,statut
+1,%{prog}s,Mettre un tri par date limite,20-04-2025,False
+2,%{prog}s,système de tri entre les taches en cours et terminé,20-04-2025,True
+3,%{prog}s,sauvegarde auto de la date de creation,20-04-2025,True
+4,Gestionnaire de tache,afficher si la tache a été modifier et quand,30-05-2025,False
+5,%{prog}s,couleur d'affichage avec colorama,20-04-2025,False
+6,%{prog}s,interface avec tinkter ou en ligne avec flask,20-04-2025,False

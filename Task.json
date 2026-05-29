@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "titre": "%{prog}s",
+        "description": "Mettre un tri par date limite",
+        "date": "20-04-2025",
+        "today": "2025-04-04",
+        "statut": false
+    },
+    {
+        "id": 2,
+        "titre": "%{prog}s",
+        "description": "système de tri entre les taches en cours et terminé",
+        "date": "20-04-2025",
+        "today": "2025-04-04",
+        "statut": true
+    },
+    {
+        "id": 3,
+        "titre": "%{prog}s",
+        "description": "sauvegarde auto de la date de creation",
+        "date": "20-04-2025",
+        "today": "2025-04-04",
+        "statut": true
+    },
+    {
+        "id": 4,
+        "titre": "Gestionnaire de tache",
+        "description": "afficher si la tache a été modifier et quand",
+        "date": "30-05-2025",
+        "today": "2025-04-04",
+        "statut": false
+    },
+    {
+        "id": 5,
+        "titre": "%{prog}s",
+        "description": "couleur d'affichage avec colorama",
+        "date": "20-04-2025",
+        "today": "2025-04-04",
+        "statut": false
+    },
+    {
+        "id": 6,
+        "titre": "%{prog}s",
+        "description": "interface avec tinkter ou en ligne avec flask",
+        "date": "20-04-2025",
+        "today": "2025-04-04",
+        "statut": false
+    },
+    {
+    "id": 999,
+    "titre": "Ajout de la gestion du projet actif (projet par défaut)",
+    "description": "Permettre à l'utilisateur de définir un projet actif une fois pour toutes, qui sera utilisé par défaut dans les commandes sans --projet. Créer une commande `activer`, lire/écrire dans un fichier de config (ex: projet_actif.txt), et modifier les fonctions pour prioriser ce projet par défaut.",
+    "date": "2025-05-30",
+    "today": "2025-04-04",
+    "statut": false
+}
+
+]

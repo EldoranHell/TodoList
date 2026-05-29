@@ -1,0 +1,34 @@
+
+🧠 10 Idées de Projets Python (Débutant à Avancé)
+
+1. 🎲 Générateur de mot de passe aléatoire (débutant)
+   ➤ Générez des mots de passe sécurisés avec options (longueur, caractères spéciaux, etc.)
+
+2. 📅 Agenda / calendrier personnel (débutant-intermédiaire)
+   ➤ Ajout, édition, rappel d’événements avec interface CLI ou Tkinter
+
+3. 🕵️ Détecteur de doublons dans un dossier (intermédiaire)
+   ➤ Scanner les fichiers dans un dossier et repérer les doublons exacts (par hash)
+
+4. 📈 Analyseur de fichier CSV (intermédiaire)
+   ➤ Lire un fichier CSV et extraire des statistiques (moyenne, max, min...)
+
+5. 🎮 Mini-jeu : Pierre-papier-ciseaux en ligne de commande (débutant)
+   ➤ Interface simple avec score et replay
+
+6. 🧹 Nettoyeur de bureau (intermédiaire)
+   ➤ Script qui trie automatiquement les fichiers sur le bureau par type/date
+
+7. 🧠 Quizz interactif (intermédiaire)
+   ➤ Série de questions aléatoires avec score et chronomètre
+
+8. 🔐 Gestionnaire de mots de passe (avancé)
+   ➤ Stockage local chiffré, génération de mots de passe, recherche
+
+9. 🔎 Web scraper (avancé)
+   ➤ Extraction automatique d’infos depuis un site web (ex: titres d'articles, prix...)
+
+10. 📊 Tableau de bord interactif avec Streamlit (avancé)
+    ➤ Interface web avec des graphes dynamiques à partir de données CSV ou API
+
+💡 Bonus : Tu peux les combiner pour créer une super app perso 👀
